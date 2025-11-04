@@ -1,14 +1,14 @@
 # Alfa Bank Test Task
 
-> Тестовое задание от Альфа-банка. Реализовать SPA на NextJS, Zustand, TypeScript. Отобразить данные с API в виде карточек, реализовать список избранного, фильтрацию, поиск.
+> Тестовое задание от ООО "Экосистема Альфа". Реализовать SPA на NextJS, Zustand, TypeScript. Отобразить данные с API в виде карточек, реализовать список избранного, фильтрацию, поиск.
 
-![Preview Screenshot](https://github.com/dag0S/alfa-bank-test-task/blob/master/public/screenshots/products.png)
+![Preview Screenshot](https://github.com/dag0S/test-task/blob/master/public/screenshots/products.png)
 
 ---
 
 ## Демо
 
-🔗 **Live Demo:** [https://alfa-bank-test-task.netlify.app/](https://alfa-bank-test-task.netlify.app/)
+🔗 **Live Demo:** [https://alfa-test-task.netlify.app/](https://alfa-test-task.netlify.app/)
 
 ---
 
@@ -30,11 +30,11 @@
 
 |                                               Продукты                                                |                                               Продукт                                               |                                                  Создать продукт                                                   |
 | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![Продукты](https://github.com/dag0S/alfa-bank-test-task/blob/master/public/screenshots/products.png) | ![Продукт](https://github.com/dag0S/alfa-bank-test-task/blob/master/public/screenshots/product.png) | ![Создать продукт](https://github.com/dag0S/alfa-bank-test-task/blob/master/public/screenshots/create-product.png) |
+| ![Продукты](https://github.com/dag0S/test-task/blob/master/public/screenshots/products.png) | ![Продукт](https://github.com/dag0S/test-task/blob/master/public/screenshots/product.png) | ![Создать продукт](https://github.com/dag0S/test-task/blob/master/public/screenshots/create-product.png) |
 
 |                                             Главная                                              |                                             404                                             |
 | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| ![Главная](https://github.com/dag0S/alfa-bank-test-task/blob/master/public/screenshots/home.png) | ![404](https://github.com/dag0S/alfa-bank-test-task/blob/master/public/screenshots/404.png) |
+| ![Главная](https://github.com/dag0S/test-task/blob/master/public/screenshots/home.png) | ![404](https://github.com/dag0S/test-task/blob/master/public/screenshots/404.png) |
 
 ---
 
@@ -42,8 +42,8 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/dag0S/alfa-bank-test-task.git
-cd alfa-bank-test-task
+git clone https://github.com/dag0S/test-task.git
+cd test-task
 
 # Устанавить зависимости
 npm install

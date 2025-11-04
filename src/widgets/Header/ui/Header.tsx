@@ -11,7 +11,7 @@ export const Header: FC = () => {
     <header className="border">
       <Container className="flex justify-between items-center gap-4 h-15">
         <Link href={ROUTES.home} className="font-bold text-xl hover:opacity-80">
-          Alfa Bank Test Task
+          Test Task
         </Link>
         <Navigation className="hidden md:flex" />
         <MobileNavigation className="flex md:hidden" />
